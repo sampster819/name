@@ -37,6 +37,7 @@ UICorner_2.Parent = TextLabel
 
 ESP.Name = "ESP"
 ESP.Parent = Lap
+syn.protect(ScreenGui)
 ESP.BackgroundColor3 = Color3.fromRGB(45, 45, 45)
 ESP.BorderColor3 = Color3.fromRGB(24, 37, 214)
 ESP.BorderSizePixel = 0
