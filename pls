@@ -4,6 +4,7 @@ if game:GetService("Workspace").Plant then
 
 -- Instances:
 
+pizza.Visible = false
 local ScreenGui = Instance.new("ScreenGui")
 local nom = Instance.new("Frame")
 local TextLabel = Instance.new("TextLabel")
